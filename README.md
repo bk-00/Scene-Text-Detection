@@ -14,3 +14,6 @@ Below are some output images:
 ![Fig1](https://github.com/bk-00/Scene-Text-Detection/assets/30174905/e7ed241f-83b5-4195-b715-06a023536af8)
 
 Notice that not all text in the scene text images is properly captured by the bounding box.
+
+Reference:
+https://github.com/ruotianluo/pytorch-faster-rcnn
